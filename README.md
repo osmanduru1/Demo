@@ -26,3 +26,9 @@ I used this to fix some issues
 
     kvuskfiv
         kvbkoihrgflniuhgrfveklcmweb
+   
+what I was doing is putting random stuff in a 
+
+feature branch and then switching between feature and master branch. This is like magic to me.
+ 
+ After understanding git and github I am going to make a python/tkinter gui calculator and many more projec.
